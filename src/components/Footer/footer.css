@@ -1,0 +1,28 @@
+footer{
+    background: var(--color-primary);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 0.7rem;
+}
+footer a{
+    color: var(--color-bg);
+}
+.footer__logo{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.pramarelinks{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin: 0 auto 2rem;
+    
+}
+
+.footer__socials{
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
